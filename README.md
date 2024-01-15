@@ -5,4 +5,4 @@ Then, load your HTML page and you will see this:
 ![image](https://github.com/wenzhaopan/QR-Code-Generator/assets/140751736/0f70fae7-2c1c-4156-bc50-55b3a3e936af)
 
 
-Upon typing in a url, a QR code will pop up.
+Upon typing in a url and pressing submit, a QR code will pop up.
