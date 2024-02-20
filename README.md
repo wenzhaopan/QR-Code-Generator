@@ -6,3 +6,5 @@ Then, load your HTML page and you will see this:
 
 
 Upon typing in a url and pressing submit, a QR code will pop up.
+
+Note: you may need to refresh the page, as the image takes a second to generate
