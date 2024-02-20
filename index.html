@@ -1,19 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Band Name Generator</title>
+  <title>QR Code Generator</title>
 </head>
-
 <body>
-  <h1>QR Generator</h1>
-  <form action="/submit" method="POST">
-    <label for="URL">Enter your URL:</label>
-    <input type="text" name="URL" required>
-    <input type="submit" value="Submit">
+  <h1>QR Code Generator</h1>
+  <form id="urlForm" action="http://localhost:3000/generate" method="POST"> <!-- Correct form action -->
+    <label for="urlInput">Enter URL:</label>
+    <input type="text" id="urlInput" name="url">
+    <button type="submit">Generate QR Code</button>
   </form>
-</body>
 
-</html>
+  <script src="script.js"></script>
+</body>
+</html> 
