@@ -1,4 +1,10 @@
-To use this application, download the code and run the command "node start" in your terminal.
+To access this application, please visit https://qrgen.ca/
+
+
+
+
+
+To use this application on your own (you can edit the code for personal use), download the code and run the command "node start" in your terminal.
 
 Then, load your HTML page and you will see this:
 
